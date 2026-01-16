@@ -2,11 +2,11 @@
 
 I'm a Frontend Developer with a Web Design & Development background 👨‍💻
 
-Even though I'm just another fellow developer, but my passion and curiosity for technology are what drive me to keep building, learning, and improving in this era 💻
+Driven by curiosity and passion for technology, I keep building, learning, and improving in this ever-evolving digital world 💻
 
-Currently I'm working on a collaboration platform called Verdant, it's a simple web app with basic functions like CRUD, authenciation, and a nice looking homepage 🌲
+Currently, I'm working on a collaboration platform called Verdant, it's a simple web app with basic functions like CRUD, authentication, and a intuitive homepage 🌲
 
-
+I often get stuck, but I embrace challenges, learn from them, and keep building apps that I’m proud of 💖
 <!--
 **Zefnir/zefnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
