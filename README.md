@@ -1,4 +1,4 @@
-## Hi there, I'm Zefnir, a web designer and developer 👋
+# Hi there, I'm Zefnir, a web designer and developer 👋
 
 <!--
 **Zefnir/zefnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
