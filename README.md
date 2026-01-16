@@ -1,4 +1,11 @@
-# Hey there, I'm Zefnir, a Frontend Developer with a Web Design & Development background
+# Hey there, I'm Zefnir ✌️
+
+I'm a Frontend Developer with a Web Design & Development background 👨‍💻
+
+Even though I'm just another fellow developer, but my passion and curiosity for technology are what drive me to keep building, learning, and improving in this era 💻
+
+Currently I'm working on a collaboration platform called Verdant, it's a simple web app with basic functions like CRUD, authenciation, and a nice looking homepage 🌲
+
 
 <!--
 **Zefnir/zefnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
